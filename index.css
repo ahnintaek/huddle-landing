@@ -80,6 +80,10 @@ footer {
     width: 1100px;
 }
 
+.attribution a {
+    color: white;
+}
+
 @media (max-width: 500px) {
     body {
         width: 100%;
